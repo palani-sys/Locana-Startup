@@ -8,8 +8,12 @@ What can solve the Information Aysmmetry?
 A Pitch!
 A Pitch in the form of an App
 
+
+
 Consumers need a pitch to try products and services provided by Small Local Businesses
 Investors receive a lot of pitches, but why don't Consumers
+
+Companies from the Mergers & Acquisitions industry conduct tons of Market Research to pitch a company to a Buyer
 
 Locana will act as an M&A company between businesses and consumers where businesses can pitch to consumers!
 With the help of Market Research, Competitor Analysis, & etc.
@@ -24,4 +28,8 @@ Why will the Target Market of Locana download another app?
 
 Access the Locana Prototype: https://claude.ai/artifact/63AbbAHUvU3UpZVyMeTqto
 
+
+Future Endeavors:
+Operating Region Growth 
+Application Programming Interface to access Big Data 
 
