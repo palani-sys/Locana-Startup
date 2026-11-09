@@ -1,5 +1,4 @@
-# <img width="1024" height="744" alt="image" src="https://github.com/user-attachments/assets/3597b794-b613-49ab-a6bf-f6a3f452d3d2" />
-Locana-Startup <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/48b02114-76c1-433e-aa26-99ab1039cdf7" />
+<img width="1024" height="744" alt="image" src="https://github.com/user-attachments/assets/3597b794-b613-49ab-a6bf-f6a3f452d3d2" /># Locana-Startup <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/48b02114-76c1-433e-aa26-99ab1039cdf7" />
 
 Locana is a Startup company that connects people to Local Businesses 
 
