@@ -37,5 +37,5 @@ Access the Locana Prototype: https://claude.ai/artifact/63AbbAHUvU3UpZVyMeTqto
 
 Future Endeavors:
 Operating Region Growth 
-Application Programming Interface to access Big Data 
+-------Application Programming Interface to access Big Data 
 
