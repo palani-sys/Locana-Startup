@@ -16,4 +16,9 @@ With the help of Market Research, Competitor Analysis, & etc.
 
 
 What Locana is going save its customers?
+
 How is Locana going to sustain?
+
+Why will the Target Market of Locana download another app?
+
+
