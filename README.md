@@ -3,7 +3,7 @@
 Locana is a Startup company that connects people to Local Businesses 
 
 Locana is trying to solve the problem of information asymmetry between Consumers and Small Businesses
-There is a marketing gap
+There is a marketing gap between the advertising and target market of local businesses
 What can solve the Information Aysmmetry? 
 A Pitch!
 A Pitch in the form of an App
@@ -25,6 +25,8 @@ What Locana is going save its customers? Endless Scrolling
 How is Locana going to sustain? 
 
 Why will the Target Market of Locana download another app?
+
+How is Locana Accessibile
 
 Access the Locana Prototype: https://claude.ai/artifact/63AbbAHUvU3UpZVyMeTqto
 
