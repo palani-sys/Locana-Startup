@@ -1,5 +1,5 @@
-# Locana-Startup
-Locana is a Startup company that connects people to Local Businesses <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/a0511118-0f13-4cfa-80a6-848626be9a9a" />
+# Locana-Startup <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/a0511118-0f13-4cfa-80a6-848626be9a9a" />
+Locana is a Startup company that connects people to Local Businesses 
 
 Locana is trying to solve the problem of information asymmetry between Consumers and Small Businesses 
 What can solve the Information Aysmmetry? 
