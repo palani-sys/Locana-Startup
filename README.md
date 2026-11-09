@@ -2,7 +2,8 @@
 
 Locana is a Startup company that connects people to Local Businesses 
 
-Locana is trying to solve the problem of information asymmetry between Consumers and Small Businesses 
+Locana is trying to solve the problem of information asymmetry between Consumers and Small Businesses
+There is a marketing gap
 What can solve the Information Aysmmetry? 
 A Pitch!
 A Pitch in the form of an App
@@ -10,14 +11,14 @@ A Pitch in the form of an App
 Consumers need a pitch to try products and services provided by Small Local Businesses
 Investors receive a lot of pitches, but why don't Consumers
 
-Locana will act as an M&A company between businesses and consumers and pitch the businesses to consumers 
+Locana will act as an M&A company between businesses and consumers where businesses can pitch to consumers!
 With the help of Market Research, Competitor Analysis, & etc.
 
 
 
-What Locana is going save its customers?
+What Locana is going save its customers? Endless Scrolling 
 
-How is Locana going to sustain?
+How is Locana going to sustain? 
 
 Why will the Target Market of Locana download another app?
 
