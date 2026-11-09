@@ -1,7 +1,8 @@
-# Locana-Startup <img width="684" height="108" alt="image" src="https://github.com/user-attachments/assets/a4ad9ae5-ae18-40ef-a3cc-4e9791c903e5" />
+ <img width="684" height="108" alt="image" src="https://github.com/user-attachments/assets/a4ad9ae5-ae18-40ef-a3cc-4e9791c903e5" />
+# Locana
 
+Locana is a Startup company that connects people to Local Businesses <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6971f01f-577f-4511-8a8d-c0e46bee7da5" />
 
-Locana is a Startup company that connects people to Local Businesses ![Uploading image.png…]()
 
 
 Locana is trying to solve the problem of information asymmetry between Consumers and Small Businesses
