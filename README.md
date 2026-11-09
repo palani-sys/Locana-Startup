@@ -21,4 +21,6 @@ How is Locana going to sustain?
 
 Why will the Target Market of Locana download another app?
 
+Access the Locana Prototype: https://claude.ai/artifact/63AbbAHUvU3UpZVyMeTqto
+
 
